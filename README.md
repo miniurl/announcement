@@ -6,7 +6,7 @@ Announcement for Miniurl.id website
 - rl.rf.gd (Suspended)
 - iurl.rf.gd (Suspended)
 - mnurl.xyz (Suspended)
-- mrl.6te.net
+- mrl.6te.net (HTTP only)
 - mnurlxyz.000webhostapp.com
 
 Example: [miniurl.id/black](https://miniurl.id/black), [mrl.6te.net/black](http://mrl.6te.net/black), [mnurlxyz.000webhostapp.com/black](https://mnurlxyz.000webhostapp.com/black)
