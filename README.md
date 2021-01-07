@@ -7,6 +7,9 @@ Announcement for Miniurl.id website
 - iurl.rf.gd (Suspended)
 - mnurl.xyz (Suspended)
 - mrl.6te.net
+- mnurlxyz.000webhostapp.com
+
+Example: [miniurl.id/black](https://miniurl.id/black), [mrl.6te.net/black](https://mrl.6te.net/black), [mnurlxyz.000webhostapp.com/black](https://mnurlxyz.000webhostapp.com/black)
 
 We have decided to use third party URL shortening service such as [is.gd](https://github.com/miniurl/is.gd-api) and [v.gd](https://github.com/miniurl/v.gd-api). We are considering to shutdown the service. MiniURLs that are shortened before November 14th 2020 12:00 UTC can be accessed by 'miniurl.id' domain and 'mrl.6te.net' domain and MiniURLs that are shortened after that time only can be accessed by 'mrl.6te.net' domain. You can get the unshortened URl using '[https://preview.miniurl.id/{SHORTENED_URL}](https://preview.miniurl.id/)', for example [https://preview.miniurl.id/github](https://preview.miniurl.id/github).
 
