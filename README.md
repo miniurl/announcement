@@ -11,7 +11,7 @@ Announcement for Miniurl.id website
 
 Example: [miniurl.id/black](https://miniurl.id/black), [mrl.6te.net/black](http://mrl.6te.net/black), [mnurlxyz.000webhostapp.com/black](https://mnurlxyz.000webhostapp.com/black)
 
-We have decided to use third party URL shortening service such as [is.gd](https://github.com/miniurl/is.gd-api) and [v.gd](https://github.com/miniurl/v.gd-api). We are considering to shutdown the service. MiniURLs that are shortened before November 14th 2020 12:00 UTC can be accessed by 'miniurl.id' domain and 'mrl.6te.net' domain and MiniURLs that are shortened after that time only can be accessed by 'mrl.6te.net' domain. You can get the unshortened URl using '[https://preview.miniurl.id/{SHORTENED_URL}](https://preview.miniurl.id/)', for example [https://preview.miniurl.id/github](https://preview.miniurl.id/github).
+We have decided to use third party URL shortening service such as [is.gd](https://github.com/miniurl/is.gd-api) and [v.gd](https://github.com/miniurl/v.gd-api). We are considering to shutdown Miniurl.id website. MiniURLs that are shortened before November 14th 2020 12:00 UTC can be accessed by 'miniurl.id' domain and 'mrl.6te.net' domain and MiniURLs that are shortened after that time only can be accessed by 'mrl.6te.net' domain. You can get the unshortened URl using '[https://preview.miniurl.id/{SHORTENED_URL}](https://preview.miniurl.id/)', for example [https://preview.miniurl.id/github](https://preview.miniurl.id/github).
 
 ## Contact Me
 - [&#x69;&#x6e;&#x66;&#x6f;&#x40;&#x6d;&#x69;&#x6e;&#x69;&#x75;&#x72;&#x6c;&#x2e;&#x69;&#x64;](mailto:&#x69;&#x6e;&#x66;&#x6f;&#x40;&#x6d;&#x69;&#x6e;&#x69;&#x75;&#x72;&#x6c;&#x2e;&#x69;&#x64;)
