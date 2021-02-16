@@ -15,7 +15,9 @@ We have decided to use third party URL shortening service such as [is.gd](https:
 
 ## Contact Me
 - [&#x69;&#x6e;&#x66;&#x6f;&#x40;&#x6d;&#x69;&#x6e;&#x69;&#x75;&#x72;&#x6c;&#x2e;&#x69;&#x64;](mailto:&#x69;&#x6e;&#x66;&#x6f;&#x40;&#x6d;&#x69;&#x6e;&#x69;&#x75;&#x72;&#x6c;&#x2e;&#x69;&#x64;)
+<!--
 - [@miniurl@mstdn.io](https://mstdn.io/web/accounts/635422) > Three dots icon > Direct message @miniurl
+-->
 
 ## Secure Communication
 [PGP Public Key](https://raw.githubusercontent.com/miniurl/announcement/main/pgpkey.txt)
